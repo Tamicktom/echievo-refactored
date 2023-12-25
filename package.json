@@ -13,6 +13,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@clerk/nextjs": "^4.29.1",
     "@phosphor-icons/react": "^2.0.15",
     "drizzle-orm": "^0.29.2",
     "jotai": "^2.6.0",
